@@ -34,3 +34,5 @@ const post2: IPostBetter<ICategory> = {
     desc: "this is a title secrion",
     extra: [{ id: 1, title: "ryan" }],
 }
+
+console.log(post2)
